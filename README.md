@@ -8,8 +8,8 @@ classic vue app and access data from server via api
 
 ## server folder
 
-express app taht exposes api and connects to local mongodb database
+express app that exposes api and connects to local mongodb database
 
 ## configuration
 
-both parts contain som edocumentation for production environment
+both parts contain some documentation for production environment
